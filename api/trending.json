@@ -3,27 +3,27 @@
     "videoId": "bbb001",
     "title": "Big Buck Bunny Trailer",
     "channelName": "Blender Foundation",
-    "thumbnailUrl": "",
+    "thumbnailUrl": "https://apurbarechargeshop-droid.github.io/aputube-content/api/thumbnails/bbb001.jpg",
     "category": "Movies",
     "description": "Open movie trailer - CC BY 3.0",
-    "durationMs": 0
+    "durationMs": 33002
   },
   {
     "videoId": "sintel001",
     "title": "Sintel Trailer",
     "channelName": "Blender Foundation",
-    "thumbnailUrl": "",
+    "thumbnailUrl": "https://apurbarechargeshop-droid.github.io/aputube-content/api/thumbnails/sintel001.jpg",
     "category": "Movies",
     "description": "Open movie trailer - CC BY 3.0",
-    "durationMs": 0
+    "durationMs": 52208
   },
   {
     "videoId": "hls001",
     "title": "HLS Streaming Demo",
     "channelName": "Mux Test Streams",
-    "thumbnailUrl": "",
+    "thumbnailUrl": "https://apurbarechargeshop-droid.github.io/aputube-content/api/thumbnails/hls001.jpg",
     "category": "Movies",
     "description": "Public HLS playback test stream",
-    "durationMs": 0
+    "durationMs": 634584
   }
 ]
