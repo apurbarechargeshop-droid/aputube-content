@@ -1,0 +1,12 @@
+{
+  "bbb001": {
+    "videoId": "bbb001",
+    "streamUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "mimeType": "video/mp4"
+  },
+  "sintel001": {
+    "videoId": "sintel001",
+    "streamUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "mimeType": "video/mp4"
+  }
+}
