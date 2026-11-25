@@ -1,20 +1,29 @@
 [
   {
     "videoId": "bbb001",
-    "title": "Big Buck Bunny",
+    "title": "Big Buck Bunny Trailer",
     "channelName": "Blender Foundation",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+    "thumbnailUrl": "",
     "category": "Movies",
-    "description": "Open movie - CC BY 3.0",
+    "description": "Open movie trailer - CC BY 3.0",
     "durationMs": 0
   },
   {
     "videoId": "sintel001",
-    "title": "Sintel",
+    "title": "Sintel Trailer",
     "channelName": "Blender Foundation",
-    "thumbnailUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+    "thumbnailUrl": "",
     "category": "Movies",
-    "description": "Open movie - CC BY 3.0",
+    "description": "Open movie trailer - CC BY 3.0",
+    "durationMs": 0
+  },
+  {
+    "videoId": "hls001",
+    "title": "HLS Streaming Demo",
+    "channelName": "Mux Test Streams",
+    "thumbnailUrl": "",
+    "category": "Movies",
+    "description": "Public HLS playback test stream",
     "durationMs": 0
   }
 ]
